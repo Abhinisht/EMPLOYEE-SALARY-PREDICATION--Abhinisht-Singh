@@ -172,9 +172,6 @@ data
 # In[27]:
 
 
-pip install matplotlib
-
-
 # In[28]:
 
 
