@@ -404,7 +404,7 @@ predict
 
 
 from sklearn.metrics import accuracy_score
- accuracy_score = (ytest , predict) # checking the accuracy score of the modelt accuracy_score
+accuracy_score = (ytest , predict) # checking the accuracy score of the modelt accuracy_score
 
 
 # In[ ]:
