@@ -673,7 +673,6 @@ get_ipython().run_cell_magic('writefile', 'app.py', 'import streamlit as st\nimp
 # In[53]:
 
 
-pip install streamlit
 
 
 # In[55]:
