@@ -688,7 +688,8 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 
 # Load dataset
-data = pd.read_csv(r"C:\Users\hp\Downloads\adult 3.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/Abhinisht/EMPLOYEE-SALARY-PREDICATION--Abhinisht-Singh/main/adult%203.csv")
+
 
 # Encode categorical columns
 encoder = LabelEncoder()
