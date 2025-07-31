@@ -101,7 +101,8 @@ import pandas as pd
 # In[17]:
 
 
-data = pd.read_csv(r"C:\Users\hp\Downloads\adult 3.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/Abhinisht/EMPLOYEE-SALARY-PREDICATION--Abhinisht-Singh/main/adult%203.csv")
+
 
 
 # In[18]:
@@ -187,7 +188,8 @@ import pandas as pd
 # In[30]:
 
 
-data = pd.read_csv(r"C:\Users\hp\Downloads\adult 3.csv")
+data = pd.read_csv("https://raw.githubusercontent.com/Abhinisht/EMPLOYEE-SALARY-PREDICATION--Abhinisht-Singh/main/adult%203.csv")
+
 
 
 # In[31]:
